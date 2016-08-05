@@ -95,6 +95,7 @@
 			"getaddrinfo":{
 				"头文件":"netdb.h",
 				"declaration":"int getaddrinfo(const char *hostname, const char *servname, const struct addrinfo *hints,struct addrinfo **res);"
+				"struct addrinfo":"结构体描述",
 			}
 
 		}
