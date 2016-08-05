@@ -1,0 +1,112 @@
+
+"knowledge":{
+
+	"数据库":{
+		"mysql":{
+
+		},
+		"sqlite":{
+
+		},
+		"redis":{
+		
+		}
+
+	},
+
+	"压缩解压缩库":{
+		"gzip":"",
+		"zlib":""
+	},
+
+	"异步编程库":{
+
+		"libev":{
+
+		},
+		"libevent":{
+
+		},
+		"libuv":{
+
+		}
+	},
+
+	"std":{
+
+		"iostream":{
+
+		},
+		"exception":{
+
+		},
+		"stl":{
+			"stl使用":{
+				"string":{
+
+				},
+				"conterner":{
+					
+					"vector":{
+
+					},
+					"list":{
+
+					},
+					"map":{
+
+					}
+
+				}
+
+
+			},
+			"stl解析":{
+
+			}
+		}
+	},
+
+	"socket编程":{
+		"核心函数":{
+			"socket":{
+
+			},
+			"listen":{
+
+			},
+			"accept":{
+
+			},
+			"recv":{
+
+			},
+			"recvfrom":{
+
+			},
+			"read":{
+
+			},
+			"write":{
+
+			}
+		},
+		"配套函数":{
+			"getaddrinfo":{
+				"头文件":"netdb.h",
+				"declaration":"int getaddrinfo(const char *hostname, const char *servname, const struct addrinfo *hints,struct addrinfo **res);",
+			}
+
+		}
+
+	},
+	"hack":{
+		"pocsuite":{
+
+		}
+	},
+	"openssl":{
+
+	}
+
+}
