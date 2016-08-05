@@ -94,7 +94,7 @@
 		"配套函数":{
 			"getaddrinfo":{
 				"头文件":"netdb.h",
-				"declaration":"int getaddrinfo(const char *hostname, const char *servname, const struct addrinfo *hints,struct addrinfo **res);",
+				"declaration":"int getaddrinfo(const char *hostname, const char *servname, const struct addrinfo *hints,struct addrinfo **res);"
 			}
 
 		}
